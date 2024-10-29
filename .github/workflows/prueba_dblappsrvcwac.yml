@@ -66,4 +66,4 @@ jobs:
         with:
           app-name: 'dblappsrvcWAC'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_64DAB07E5DF640F8AD082A29C6494F9C }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_5DCDDDE932EC4978AC328A9B9AEF5BF9 }}
